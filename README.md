@@ -1,5 +1,5 @@
 # Pacman
-Welcome to the classic action game – Pacman! Navigate Pacman through a maze, gobble up pellets, avoid ghosts, and strive for a high score. This version includes a protagonist, antagonists, pellets, power pellets, and all the excitement of the original Pacman.
+Welcome to the classic action game utilising PyGame – Pacman! Navigate Pacman through a maze, gobble up pellets, avoid ghosts, and strive for a high score. This version includes a protagonist, antagonists, pellets, power pellets, and all the excitement of the original Pacman.
 
 ## Game Features
 
