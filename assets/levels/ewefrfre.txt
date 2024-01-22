@@ -1,0 +1,35 @@
+82
+92
+90
+95
+
+MATHS
+• The coordinate geometry of the circle
+
+Completed
+• Arithmetic sequences and series
+• The factor theorem
+• Use vectors to solve a problem in pure mathematics 
+• Formal proof
+• Differentiation: stationary points, minima. Radian measure
+• Integration as a limit
+• Methods of integration
+• Trigonometric identities and equations
+• Trigonometric functions and identities: area under a curve
+• Exponentials: Solving equations, rate of change
+• Understand and use graphs of functions
+• Use intersection points of graphs to solve equations
+• Transformations of a curve
+• Use of functions in modelling
+• Maximum point; iteration
+
+PHYSICS
+• 6.3 Electromagnetism (includes practical skills)
+
+Completed
+• 4.5 Quantum physics (includes practical skills)
+• 6.5 Medical imaging
+• 6.4 Nuclear and particle physics
+• 4.4 Waves
+• 6.1 Capacitors
+• 6.2 Electric fields 
