@@ -12,8 +12,8 @@ Lives: You have three lives to conquer the maze.
 Respawn Points: Find respawn points for both Pacman and ghosts.
 
 ## Links
-Project Documentation (Waterfall) - https://drive.google.com/file/d/1iC8yM2UWqWNFHZjtAEPz_XZC2p49ckge/view?usp=sharing
-Game Preview - https://www.youtube.com/watch?v=KM5Xk2m_L9c
+- Project Documentation (Waterfall) - https://drive.google.com/file/d/1iC8yM2UWqWNFHZjtAEPz_XZC2p49ckge/view?usp=sharing
+- Game Preview - https://www.youtube.com/watch?v=KM5Xk2m_L9c
 
 ## How to Play
 
