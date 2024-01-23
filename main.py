@@ -3,7 +3,7 @@ from pygame.locals import *
 import os
 import time
 from ghost import Ghost
-from main_menu import main_menu
+from main_menu import MainMenu
 from pacman import Pacman
 from worldsprite import WorldSprite
 
@@ -88,7 +88,7 @@ class Game:
         #creates empty array to store sprites when loaded
         self.current_level_base = []
         self.ghosts = []
-        self.menu = main_menu()        
+        self.menu = MainMenu()        
         self.game_handler()
     
     '''Initialises the game
@@ -136,7 +136,7 @@ class Game:
         Returns exit code'''
     def run_game(self, level_number):
         if self.new_game:
-            self.menu.main_menu(self.DISPLAYSURF)
+            self.menu.MainMenu(self.DISPLAYSURF)
             self.NAME = self.menu.input_name(self.DISPLAYSURF)
             self.new_game = False
 

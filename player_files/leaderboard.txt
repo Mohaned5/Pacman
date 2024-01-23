@@ -60,3 +60,6 @@ eger,200
 rertt,200
 leah,1400
 Mohanedd,2800
+tester,10820
+gamer123,4840
+Jake,5550

@@ -38,7 +38,7 @@ PACMAN_SPEED = 1
 GHOST_SPEED = 1
 
 
-class main_menu:
+class MainMenu:
     def __init__(self) -> None:
         self.WIDTH = WORLD_SIZE*BLOCK_SIZE
         self.HEIGHT = WORLD_SIZE*BLOCK_SIZE  
